@@ -1,0 +1,102 @@
+html {
+  height: 100%;
+  width: 100%;
+  
+}
+
+body {
+    background-color: #520a0a;
+}
+h1{
+  position: relative;
+  color: #583d28;
+  text-align: center;
+  font-family:'Onest', sans-serif;
+}
+.alla{
+  font-size: 18px;
+  font-family: 'Sarabun', sans-serif;
+}
+.name{
+  border: solid #7e3a3a 5px;
+  background-color: tan;
+  width: 400px;
+  height: 380px;
+  text-align: center;
+  font-size: 14px;
+  position: relative;
+  left: 500px;
+ 
+}
+.ans{
+  color: #402511;
+  background-color: #c49d6e;
+  border: solid #a45e0e 5px;
+  width: 950px;
+  height: 1100px;
+  padding: 4px;
+  margin: 10px;
+  overflow: hidden; 
+  border-radius: 30px;
+  position: absolute;
+  left:200px;
+
+}
+
+.all{
+  font-family: 'Quicksand', sans-serif;
+
+
+  text-align: center;
+}
+.skil{
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+
+
+}
+.exp{
+  text-align: center;
+ font-family: 'Quicksand', sans-serif;
+
+
+}
+.pic{
+  height:220px;
+  width:160px;
+}
+.pic:hover{
+  height: 400px;
+  width:300px;
+}
+
+.ama{
+  height:150px;
+  width:230px;
+  position:relative;
+  left:350px;
+}
+.ama:hover{
+  height: 200px;
+  width: 290px;
+}
+li{
+  font-size: 18px;
+  font-family: 'Sarabun', sans-serif;
+}
+h3{
+  font-family: 'Sarabun', sans-serif;
+  text-align: center;
+}
+.bad{
+  height:150px;
+  width:230px;
+  position: absolute;
+  left:600px;
+  top: 410px;
+
+}
+.bad:hover{
+  height: 200px;
+  width:300px;
+}
